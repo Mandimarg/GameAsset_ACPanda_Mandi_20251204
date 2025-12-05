@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  m_SkyboxMaterial: {fileID: 2100000, guid: dc6d2a2bb41c2a243abf7fc015fbd57b, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -257,6 +257,78 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0268fd46cef47d24386a60116c9495d5, type: 3}
+--- !u!1001 &234417373
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: eb106c6e4336e304d9da49104d429f50, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.29289
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: eb106c6e4336e304d9da49104d429f50, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.29289
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: eb106c6e4336e304d9da49104d429f50, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.29289
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: eb106c6e4336e304d9da49104d429f50, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 24.473
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: eb106c6e4336e304d9da49104d429f50, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.064
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: eb106c6e4336e304d9da49104d429f50, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24.875
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: eb106c6e4336e304d9da49104d429f50, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: eb106c6e4336e304d9da49104d429f50, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: eb106c6e4336e304d9da49104d429f50, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: eb106c6e4336e304d9da49104d429f50, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: eb106c6e4336e304d9da49104d429f50, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: eb106c6e4336e304d9da49104d429f50, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: eb106c6e4336e304d9da49104d429f50, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eb106c6e4336e304d9da49104d429f50, type: 3}
+      propertyPath: m_Name
+      value: Animal_Crossing_Panda_Mandi11
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: eb106c6e4336e304d9da49104d429f50, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1106293368}
+  m_SourcePrefab: {fileID: 100100000, guid: eb106c6e4336e304d9da49104d429f50, type: 3}
 --- !u!1 &330585543
 GameObject:
   m_ObjectHideFlags: 0
@@ -1185,79 +1257,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 594b01e3c91beb143b6d7c58f85d4516, type: 3}
---- !u!1001 &905680139
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: d05b5ac14c5295f448c7f57e0717985a, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.29996
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: d05b5ac14c5295f448c7f57e0717985a, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.29996
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: d05b5ac14c5295f448c7f57e0717985a, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.29996
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: d05b5ac14c5295f448c7f57e0717985a, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 23.954
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: d05b5ac14c5295f448c7f57e0717985a, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.059
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: d05b5ac14c5295f448c7f57e0717985a, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 25.214
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: d05b5ac14c5295f448c7f57e0717985a, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: d05b5ac14c5295f448c7f57e0717985a, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: d05b5ac14c5295f448c7f57e0717985a, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: d05b5ac14c5295f448c7f57e0717985a, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: d05b5ac14c5295f448c7f57e0717985a, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: d05b5ac14c5295f448c7f57e0717985a, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: d05b5ac14c5295f448c7f57e0717985a, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: d05b5ac14c5295f448c7f57e0717985a, type: 3}
-      propertyPath: m_Name
-      value: Animal_Crossing_Panda_Mandi03
-      objectReference: {fileID: 0}
-    - target: {fileID: 5866666021909216657, guid: d05b5ac14c5295f448c7f57e0717985a, type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: c47c2b2c723b7fe45badaadb5bac0745, type: 2}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d05b5ac14c5295f448c7f57e0717985a, type: 3}
 --- !u!1001 &913919707
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1327,6 +1326,33 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 957cf1c8d7dcd284cac22e3a868dd0a5, type: 3}
+--- !u!1 &1106293366 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: eb106c6e4336e304d9da49104d429f50, type: 3}
+  m_PrefabInstance: {fileID: 234417373}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1106293368
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1106293366}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7d0e5076043c254c921ffdc9b3cd87f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1001 &1232306835
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2034,4 +2060,4 @@ SceneRoots:
   - {fileID: 466188933}
   - {fileID: 913919707}
   - {fileID: 716220928}
-  - {fileID: 905680139}
+  - {fileID: 234417373}
