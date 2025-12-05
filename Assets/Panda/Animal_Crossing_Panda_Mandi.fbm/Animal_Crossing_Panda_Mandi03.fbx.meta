@@ -17,7 +17,28 @@ ModelImporter:
     removeConstantScaleCurves: 0
     motionNodeName: 
     animationImportErrors: 
-    animationImportWarnings: 
+    animationImportWarnings: "\nClip 'Armature|Armature.001|mixamo.com|Layer0' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'Chest' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Armature|Armature.001|mixamo.com|Layer0.002' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'Chest' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\nClip 'Armature|Armature.001|mixamo.com|Layer0.003'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Armature|Armature.001|mixamo.com|Layer0.003 Retarget' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'Chest' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\nClip 'Armature|Armature.001|mixamo.com|Layer0.004
+      Retarget' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Armature|Armature.002|mixamo.com|Layer0' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'Chest' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n"
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
@@ -29,7 +50,181 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Armature.001|mixamo.com|Layer0
+      takeName: Armature|Armature.001|mixamo.com|Layer0
+      internalID: -6842666708266138392
+      firstFrame: 0
+      lastFrame: 420
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Armature.001|mixamo.com|Layer0.002
+      takeName: Armature|Armature.001|mixamo.com|Layer0.002
+      internalID: -3865379262170353974
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Armature.001|mixamo.com|Layer0.003
+      takeName: Armature|Armature.001|mixamo.com|Layer0.003
+      internalID: 3618420698690315038
+      firstFrame: 0
+      lastFrame: 82
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Armature.001|mixamo.com|Layer0.003 Retarget
+      takeName: Armature|Armature.001|mixamo.com|Layer0.003 Retarget
+      internalID: -7830585659461608834
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Armature.001|mixamo.com|Layer0.004 Retarget
+      takeName: Armature|Armature.001|mixamo.com|Layer0.004 Retarget
+      internalID: 1967197676868761130
+      firstFrame: 0
+      lastFrame: 62
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Armature.002|mixamo.com|Layer0
+      takeName: Armature|Armature.002|mixamo.com|Layer0
+      internalID: -6039235621738319110
+      firstFrame: 0
+      lastFrame: 419
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 0
   meshes:
     lODScreenPercentages: []
@@ -80,7 +275,112 @@ ModelImporter:
   humanDescription:
     serializedVersion: 3
     human: []
-    skeleton: []
+    skeleton:
+    - name: Animal_Crossing_Panda_Mandi03(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature
+      parentName: Animal_Crossing_Panda_Mandi03(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Root
+      parentName: Armature
+      position: {x: 0.016645608, y: -0.016224308, z: 0}
+      rotation: {x: 0.00000008940697, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+    - name: Hips
+      parentName: Root
+      position: {x: -0.016609171, y: 0.016224304, z: 0.004696242}
+      rotation: {x: 0.00000033566894, y: -0.57482976, z: -0.81827307, w: 0.00000054827854}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: Tummy
+      parentName: Hips
+      position: {x: 0.0000000015957065, y: 0.004010889, z: -3.9042958e-10}
+      rotation: {x: 0.17983817, y: -0.00000011737173, z: -0.000000060338074, w: 0.9836962}
+      scale: {x: 0.9999998, y: 0.9999998, z: 1}
+    - name: Chest
+      parentName: Tummy
+      position: {x: 2.3283063e-11, y: 0.0038829672, z: -6.239861e-10}
+      rotation: {x: 0.23641485, y: 0.0000001218048, z: -0.00000009797141, w: 0.9716522}
+      scale: {x: 1.0000001, y: 0.9999999, z: 0.99999976}
+    - name: Head
+      parentName: Chest
+      position: {x: -0.0000000012479722, y: 0.0032078444, z: 7.45058e-10}
+      rotation: {x: -0.2555653, y: -0.0000000075284206, z: 0.000000069995494, w: 0.9667918}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000002}
+    - name: Shoulder.L
+      parentName: Chest
+      position: {x: 0.0006293733, y: 0.00014456033, z: -0.00082020176}
+      rotation: {x: -0.15398775, y: -0.13600679, z: -0.6750121, w: 0.70862454}
+      scale: {x: 0.9999991, y: 0.9999997, z: 0.99999976}
+    - name: Arm.L
+      parentName: Shoulder.L
+      position: {x: 0.00017295979, y: 0.003755439, z: 0.00023871988}
+      rotation: {x: 0.007382392, y: 0.22072619, z: 0.039895173, w: -0.9744916}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000001}
+    - name: Hand.L
+      parentName: Arm.L
+      position: {x: -0.0000000025331974, y: 0.0028332518, z: -2.9802322e-10}
+      rotation: {x: -0.0000001490116, y: 0.00000038743013, z: 0.034447137, w: 0.9994065}
+      scale: {x: 1.0000007, y: 1.0000006, z: 1.0000001}
+    - name: Shoulder.R
+      parentName: Chest
+      position: {x: -0.0005565058, y: 0.00014455378, z: -0.00082020357}
+      rotation: {x: -0.15398861, y: 0.13600594, z: 0.67501235, w: 0.70862424}
+      scale: {x: 0.9999995, y: 1.0000001, z: 1.0000004}
+    - name: Arm.R
+      parentName: Shoulder.R
+      position: {x: -0.00017296018, y: 0.0037554377, z: 0.00023871928}
+      rotation: {x: -0.0073826816, y: 0.2207262, z: 0.039894596, w: 0.9744916}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000004}
+    - name: Hand.R
+      parentName: Arm.R
+      position: {x: 2.9802322e-10, y: 0.0028332495, z: -4.4703483e-10}
+      rotation: {x: -0.00000008940697, y: -0.00000010430813, z: -0.034447536, w: 0.9994065}
+      scale: {x: 1.0000007, y: 1.0000005, z: 0.9999997}
+    - name: Upper_Leg.L
+      parentName: Hips
+      position: {x: 0.0014796023, y: 0.00067680207, z: 0.00024399102}
+      rotation: {x: -0.021923162, y: -0.21430606, z: 0.9695079, w: -0.116819814}
+      scale: {x: 1.0000008, y: 1.0000006, z: 1.0000005}
+    - name: Leg.L
+      parentName: Upper_Leg.L
+      position: {x: 2.9802322e-10, y: 0.0026005486, z: 5.1688404e-10}
+      rotation: {x: 0.20718543, y: -0.01369586, z: -0.083061635, w: 0.974673}
+      scale: {x: 1.0000007, y: 1.0000013, z: 1}
+    - name: Foot.L
+      parentName: Leg.L
+      position: {x: 4.842877e-10, y: 0.0026145654, z: 5.587935e-10}
+      rotation: {x: -0.77811766, y: -0.01650487, z: 0.008988753, w: 0.62783736}
+      scale: {x: 1.0000012, y: 1.0000013, z: 1.0000011}
+    - name: Upper_Leg.R
+      parentName: Hips
+      position: {x: -0.0014067288, y: 0.00067680207, z: 0.0002439917}
+      rotation: {x: 0.021920787, y: -0.21430577, z: 0.9695079, w: 0.116820514}
+      scale: {x: 1.0000007, y: 1.0000004, z: 1}
+    - name: Leg.R
+      parentName: Upper_Leg.R
+      position: {x: 8.754432e-10, y: 0.0026005476, z: 1.11758706e-10}
+      rotation: {x: 0.20718509, y: 0.013695799, z: 0.08306265, w: 0.974673}
+      scale: {x: 0.99999994, y: 1.0000006, z: 1}
+    - name: Foot.R
+      parentName: Leg.R
+      position: {x: -0.0000000017695129, y: 0.0026145668, z: 0.0000000014342367}
+      rotation: {x: -0.7781177, y: 0.016502824, z: -0.008989969, w: 0.6278373}
+      scale: {x: 1.0000017, y: 1.0000007, z: 1.0000005}
+    - name: Panda_Body
+      parentName: Animal_Crossing_Panda_Mandi03(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Panda_Dress
+      parentName: Animal_Crossing_Panda_Mandi03(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
     armTwist: 0.5
     foreArmTwist: 0.5
     upperLegTwist: 0.5
@@ -95,7 +395,7 @@ ModelImporter:
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   autoGenerateAvatarMappingIfUnspecified: 1
-  animationType: 3
+  animationType: 2
   humanoidOversampling: 1
   avatarSetup: 1
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1

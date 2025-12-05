@@ -1207,15 +1207,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d05b5ac14c5295f448c7f57e0717985a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 23.897
+      value: 23.954
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d05b5ac14c5295f448c7f57e0717985a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.076
+      value: 0.059
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d05b5ac14c5295f448c7f57e0717985a, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 24.763
+      value: 25.214
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d05b5ac14c5295f448c7f57e0717985a, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1249,6 +1249,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Animal_Crossing_Panda_Mandi03
       objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: d05b5ac14c5295f448c7f57e0717985a, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c47c2b2c723b7fe45badaadb5bac0745, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
